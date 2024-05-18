@@ -6,5 +6,5 @@
 
 {
   console.log(' this is a sentance of blocks')
-
+  console.log(' this is a sentance of blocks')
 }
