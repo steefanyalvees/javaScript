@@ -29,6 +29,15 @@ console.log(namess + addresses)
  // entao colocamos aspas para priozirar o sinal de menos, assim como na mathematica :
 
  console.log(produto * (1 - desconto)) // resposta final 
+ let age = 31;
+ console.log(typeof 31); 
+ 
+ // typo do numero1 
 
+ // in javaScrypt int an double are the same.. tudo e numero. 
+ // boolean = true and false - 1 and 0
 
-
+// Number 
+  //  Boolean.
+    //Null.
+    // undefined. Symbol (novo no ECMAScript 6) 
