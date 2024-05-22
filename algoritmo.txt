@@ -1,0 +1,2 @@
+algoritmo sao como verbos, acoes
+estrturas de dados o que organiza  os dados.
