@@ -5,3 +5,11 @@ suporta repeticoes; sequencia de passos; pular passos; condicoes
 para construir software nos usamos algoritmos.
 order dos passos sao importantes. 
 existes algoritmo sem entrada e sem saidas. 
+
+Estruturas de dados : o papel e estrutura os dados, organizar, administrar, respeitando as regras estimuladas
+exemplo: lista, 
+
+filo: first in last out;
+lifo: last in first out; stack 
+trees : arvores estrutura/ pasta 
+tables : linhas e colunas
