@@ -13,3 +13,10 @@ filo: first in last out;
 lifo: last in first out; stack 
 trees : arvores estrutura/ pasta 
 tables : linhas e colunas
+
+variables and constantes : onde armazenamos os valores (dados)
+e fazemos os algortimos a partir disso. 
+
+javaScript e Java, se parecem mas bem diferentes; 
+organizacao basica : linhas de codigo, blocks de codigo, 
+
