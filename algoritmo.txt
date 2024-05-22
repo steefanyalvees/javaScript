@@ -1,2 +1,7 @@
 algoritmo sao como verbos, acoes
 estrturas de dados o que organiza  os dados.
+repeticoes, como o traffic lights. 
+suporta repeticoes; sequencia de passos; pular passos; condicoes
+para construir software nos usamos algoritmos.
+order dos passos sao importantes. 
+existes algoritmo sem entrada e sem saidas. 
