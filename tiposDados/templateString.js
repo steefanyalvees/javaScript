@@ -43,3 +43,11 @@ const numb = ` ${count }
 9`
 
 console.log (numb)
+
+///// expresoes//
+
+console.log(`1+1= ${1 +1}`)
+// expressoes comecam com $ 
+
+const up = text => text.toUpperCase()
+console.log(`Eii.. ${up('cuidado')}`)
