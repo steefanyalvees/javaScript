@@ -18,3 +18,7 @@ const soma =(a,b) => // forma reduzida
   /// diminundo ainda mais retorno implicito
   const subtracao = (a,b) => a-b
   console.log(subtracao(2,3))
+
+  // arrow funcitons com um parametro so 
+  const print2 = a => console.log(a)
+  print2('legal')
