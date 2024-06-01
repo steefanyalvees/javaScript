@@ -9,5 +9,6 @@ function exec(){ // funcao
 
 //objetos sao grupos aninhados de pares nome/valor
 const client = {
-  nome:
+  nome:'stefany', //obecto 
+  idade: 33,
 }
