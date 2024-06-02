@@ -18,3 +18,5 @@ console.log(p3)
 // ignora o primeiro array, e o primeiro elemento do segundo array
 const[,[, nota]] = [[,8,9], [2,4,6]]
 console.log(nota)
+
+// array lado direto, desestruturcao lado esquerdo
