@@ -26,7 +26,9 @@ const printResult = function (nota){
       break  // se tirar o break, ele executa tudo
           //com o brea ele para quando acha um valor certo
 
-  }
+  } default:   // acessar por ultimo
+        console.log('nota invalida')
+
 }}}
 
 printResult(10)
