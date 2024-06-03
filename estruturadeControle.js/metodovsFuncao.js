@@ -28,3 +28,6 @@ const pessoa = {
 
 // Chamando o método
 console.log(pessoa.saudar());
+
+
+// podemos colocar
