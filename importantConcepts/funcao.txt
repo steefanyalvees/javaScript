@@ -1,0 +1,11 @@
+funcao, cidadao de primeira lingua.
+Com a funcao conseguimos passar uma funcao como parametro
+retornar uma funcao a partir de outra funcao
+Declara uma funcao dentro de outra funcao
+criar de forma literal, armazenar em uma variavel. 
+
+O que e uma funcao ?
+funcao recebe parametros, e retorna um valor.
+
+parametros e retorno sao opcionais em javaScript
+
